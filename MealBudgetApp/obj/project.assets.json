@@ -205,11 +205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\학교\\Idho SophJunior-Fall\\CSE 310\\sprint02\\MealBudgetApp\\MealBudgetApp.csproj",
+      "projectUniqueName": "E:\\학교\\Idho SophJunior-Fall\\CSE 310\\310sprint02\\MealBudgetApp\\MealBudgetApp.csproj",
       "projectName": "MealBudgetApp",
-      "projectPath": "E:\\학교\\Idho SophJunior-Fall\\CSE 310\\sprint02\\MealBudgetApp\\MealBudgetApp.csproj",
+      "projectPath": "E:\\학교\\Idho SophJunior-Fall\\CSE 310\\310sprint02\\MealBudgetApp\\MealBudgetApp.csproj",
       "packagesPath": "C:\\Users\\LG\\.nuget\\packages\\",
-      "outputPath": "E:\\학교\\Idho SophJunior-Fall\\CSE 310\\sprint02\\MealBudgetApp\\obj\\",
+      "outputPath": "E:\\학교\\Idho SophJunior-Fall\\CSE 310\\310sprint02\\MealBudgetApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LG\\AppData\\Roaming\\NuGet\\NuGet.Config"
